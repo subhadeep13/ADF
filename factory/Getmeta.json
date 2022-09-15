@@ -1,0 +1,9 @@
+{
+	"name": "Getmeta",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "81638ad4-b77d-418a-a198-c04cbf40d8b0",
+		"tenantId": "420ec589-a866-4ad0-9a57-e6049e0d3bc0"
+	}
+}
